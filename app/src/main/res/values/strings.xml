@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whats The Weather</string>
+    <string name="textviewtextview">textviewtextview</string>
+    <string name="what_s_the_weather">What\'s The Weather</string>
+    <string name="enter_a_city">Enter A City</string>
+    <string name="todo">TODO</string>
+</resources>
